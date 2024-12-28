@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# EBokk ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um ebook com 3 páginas ensinando uma adolescente de 15 anos a poupar dinheito, escreva como se fosse um expert em economia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criar um ebook com 3 páginas ensinando uma adolescente de 15 anos a poupar dinheito, escreva como se fosse um expert em economia, de uma forma lúdica.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No arquivo em PDF
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito legal.
 ```
 
 ### Exemplos e Insigths
